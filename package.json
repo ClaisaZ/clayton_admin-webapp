@@ -1,0 +1,24 @@
+{
+  "name": "clayton_admin-webapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClaisaZ/clayton_admin-webapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ClaisaZ/clayton_admin-webapp/issues"
+  },
+  "homepage": "https://github.com/ClaisaZ/clayton_admin-webapp#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
